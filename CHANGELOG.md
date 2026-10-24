@@ -8,6 +8,19 @@ bump; a refactor or doc change that alters no behaviour is a patch.
 
 ---
 
+## 1.11.1 — 2026-10-24
+
+**The install description caught up with the skill.**
+
+`plugin.json` still described the older skill: 50–85 questions over 8 layers, and a synthesis of
+problem map, fears and proposed solution. The skill has run 65–100 questions over 9 layers since
+the process-contract layer was added, and its synthesis is now the whole-picture diagram, the
+process contract and the acceptance criteria. The description is what people read before they
+install, so it described a skill that no longer exists. No behaviour changed. The GitHub repo
+description said "7 layers" and was corrected too.
+
+---
+
 ## 1.11.0 — 2026-09-22
 
 **`DEFERRED`: a fourth ledger status, found by reading a real 124-question run.**
